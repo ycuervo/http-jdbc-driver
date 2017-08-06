@@ -1,0 +1,9 @@
+#ignore compiled code
+target/
+
+#ignore deployment packaging
+package/
+
+#ignore intellij folder
+.idea/
+*.iml
